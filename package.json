@@ -1,0 +1,29 @@
+{
+  "name": "react-native-simple-loading",
+  "version": "0.0.1",
+  "description": "Simple Loading Indicator Screen for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devzerstudio/react-native-simple-loading.git"
+  },
+  "keywords": [
+    "react",
+    "android",
+    "ios",
+    "react-native",
+    "spinner",
+    "overlay",
+    "loading",
+    "loading-indicator"
+  ],
+  "author": "DEVZER STUDIO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devzerstudio/react-native-simple-loading/issues"
+  },
+  "homepage": "https://github.com/devzerstudio/react-native-simple-loading#readme"
+}

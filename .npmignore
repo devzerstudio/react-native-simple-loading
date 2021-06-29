@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# yarn configuration
+yarn.lock
+
+# prettier configuration
+.prettierrc.js
+
+# example directories
+example/

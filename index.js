@@ -1,1 +1,3 @@
-console.log("Welcome to the Beta Release!")
+import SimpleLoading from "./SimpleLoading";
+
+export default SimpleLoading;

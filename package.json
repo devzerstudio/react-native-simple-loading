@@ -36,10 +36,5 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
-  },
-  "prettier": {
-    "singleQuote": false,
-    "bracketSpacing": true,
-    "trailingComma": "none"
   }
 }

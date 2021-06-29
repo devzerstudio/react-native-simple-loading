@@ -8,4 +8,7 @@ yarn.lock
 .prettierrc.js
 
 # example directories
-example/
+examples/
+
+# vscode configuration
+.vscode/

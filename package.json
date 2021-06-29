@@ -4,7 +4,7 @@
   "description": "Simple Loading Indicator Screen for React Native",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,10 +20,26 @@
     "loading",
     "loading-indicator"
   ],
-  "author": "DEVZER STUDIO",
+  "author": "DEVZER STUDIO <devzerstudio@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/devzerstudio/react-native-simple-loading/issues"
   },
-  "homepage": "https://github.com/devzerstudio/react-native-simple-loading#readme"
+  "contributors": [
+    "Hashan Shalitha <shalithavidanapathirana@gmail.com>",
+    "DEVZER STUDIO <devzerstudio@gmail.com>"
+  ],
+  "homepage": "https://github.com/devzerstudio/react-native-simple-loading#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "prettier": {
+    "singleQuote": false,
+    "bracketSpacing": true,
+    "trailingComma": "none"
+  }
 }

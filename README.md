@@ -34,7 +34,7 @@ Example 01 (Minimal)
         <SimpleLoading
           text="downloading..."
           loading={loading}
-      />
+        />
       );
     }
 ```
@@ -53,7 +53,7 @@ Example 02 (Optimal)
           loading={loading}
           containerStyles={{ backgroundColor: "black" }}
           textStyles={{ color: "white" }}
-      />
+        />
       );
     }
 ```

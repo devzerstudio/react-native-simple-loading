@@ -1,6 +1,6 @@
-# react-native-simple-loading
+# Simple Loading Indicator Screen for React Native
 
-Simple Loading Indicator Screen for React Native
+<img src="https://raw.githubusercontent.com/devzerstudio/react-native-simple-loading/main/screenshots/android_Pixel_3a.gif" width="200" height="393.5" alt="" />
 
 ## Installation
 

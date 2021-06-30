@@ -12,3 +12,6 @@ examples/
 
 # vscode configuration
 .vscode/
+
+# screenshots
+screenshots/
